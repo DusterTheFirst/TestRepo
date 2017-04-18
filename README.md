@@ -6,7 +6,9 @@ DID YOIU READMNE
 READ ME PLZ
 <br><br><br><br><br><br><br><br><br><br><br><br>
 **FATHER**
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
-
-|Common|Rare|Epic|Legendary|
-|:-|:-|:-|:-|:-|
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
